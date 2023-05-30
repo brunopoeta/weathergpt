@@ -1,5 +1,5 @@
 <a href="https://github.com/steven-tey/weathergpt">
-   <img src="https://weathergpt.vercel.app/opengraph-image.png" alt="OG Image">
+   <img src="https://glittery-profiterole-6a7402.netlify.app/opengraph-image.png" alt="OG Image">
 </a>
 
 <h1 align="center">WeatherGPT</h3>
